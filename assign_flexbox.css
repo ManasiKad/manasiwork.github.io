@@ -1,0 +1,68 @@
+.container{
+    border: 5px solid black;
+    height: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.items{
+    height: 140px;
+    width: 80px;
+    margin: 10px;
+    border: 1.5px solid black;
+}
+
+#box1{
+   background-color: red;
+
+}
+
+#box2{
+    background-color: aqua;
+ }
+
+ #box3{
+    background-color:purple;
+ }
+
+ #box4{
+    background-color:pink;
+ }
+
+ #box5{
+    background-color:yellow;
+ }
+
+ #box6{
+   background-color:aquamarine;
+}
+
+#box7{
+   background-color:gold;
+}
+
+#box8{
+   background-color:green;
+}
+
+#box9{
+   background-color:brown;
+}
+
+#box10{
+   background-color:burlywood;
+}
+
+.pg{
+   text-align: center;
+   height: 1px;
+}
+
+.img{
+   height: 107px;
+   width: 80px;
+}
+
+
+
+ 
